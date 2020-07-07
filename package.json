@@ -1,0 +1,19 @@
+{
+  "name": "calcpro",
+  "version": "1.0.0",
+  "description": "\"A simple calculator to do basic additions, subtractions, divisions and multiplicatons\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usamaidrsk/calcpro.git"
+  },
+  "author": "Usama Idriss Kakumba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usamaidrsk/calcpro/issues"
+  },
+  "homepage": "https://github.com/usamaidrsk/calcpro#readme"
+}
