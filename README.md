@@ -1,4 +1,4 @@
 # calcpro
 simple calculator
 
-[Check the Calucu here](https://usamaidrsk.github.io/calcpro/)
+[Check the Calc here](https://usamaidrsk.github.io/calcpro/)
